@@ -1,0 +1,17 @@
+{
+  "name": "Twitter Automation",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Twitter Automation",
+  "permissions": [
+      "scripting",
+      "activeTab" 
+  ],
+  "host_permissions": [
+      "<all_urls>"  
+  ],
+  "action": {
+      "default_title": "I am Simple Twitter Automation Extension Dev By Sai@SparkDev",
+      "default_popup": "popup.html"
+  }
+}
